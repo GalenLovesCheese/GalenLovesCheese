@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Galen Tay</h1>
-<h3 align="center">Full Time Cybersecurity Student @Ngee Ann, Part Time Dilly Dallyer</h3>
+<h3 align="center">Full Time Cybersecurity Student @Ngee Ann</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galenlovescheese" alt="galenlovescheese" /></a> </p>
 

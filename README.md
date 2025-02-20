@@ -7,9 +7,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=galenlovescheese" alt="galenlovescheese" /></a> </p>
 
-<p align="left">
-    - 📫 How to reach me **galentay888@gmail.com**
-</p>
+📫 How to reach me **galentay888@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
